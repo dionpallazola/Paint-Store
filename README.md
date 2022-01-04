@@ -16,3 +16,6 @@ I corrected the following color-related changes:
 <li>RGBA</li>
 <li>HSL</li>
 <li>Semantic HTML</li>
+  </ul>
+  
+<img> ![Screen Shot 2022-01-04 at 11 14 38 AM](https://user-images.githubusercontent.com/90618526/148104814-00c0bbf8-87d7-4510-b8aa-d602f1ec953f.png) </img>
