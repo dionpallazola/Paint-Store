@@ -16,4 +16,3 @@ I corrected the following color-related changes:
 <li>RGBA</li>
 <li>HSL</li>
 <li>Semantic HTML</li>
-</ul>
